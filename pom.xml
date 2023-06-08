@@ -22,14 +22,10 @@
                 <version>3.0.0</version>
                 <configuration>
                     <mainClass>com.mnz.App</mainClass>
-                    <arguments>
-                        <argument>sorted-names-list.txt</argument>
-                    </arguments>
                 </configuration>
             </plugin>
         </plugins>
     </build>
-
     <dependencies>
 
         <dependency>
